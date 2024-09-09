@@ -15,4 +15,5 @@ A simple command-line interface (CLI) tool to fetch and display the recent GitHu
 
 ## Requirements
 
-- Python 3.x
+- Python 3
+  
